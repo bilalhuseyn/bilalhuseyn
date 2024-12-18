@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning Java and Solidity, Cairo
 - 💞️ I’m looking to collaborate with Blockchain and Smart Contracts Companies
-- 📫 How to reach me https://www.linkedin.com/in/bilal-h%C3%BCseynov-054234215
+- 📫 How to reach me https://www.linkedin.com/in/bilal-huseynov
 
 <!---
 bilalhuseyn/bilalhuseyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
