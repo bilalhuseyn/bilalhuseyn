@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bilalhuseyn
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning Java and Solidity, Cairo
+- 👀 I’m interested in blockchain, IP-NFTs and IP-Tokens
+- 🌱 I’m currently on Solidity
 - 💞️ I’m looking to collaborate with Blockchain and Smart Contracts Companies
 - 📫 How to reach me https://www.linkedin.com/in/bilal-huseynov
 
